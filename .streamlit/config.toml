@@ -1,0 +1,7 @@
+[theme]
+primaryColor="#D4AF37"  # Dourado petróleo
+backgroundColor="#1B1B1B"  # Preto petróleo bruto
+secondaryBackgroundColor="#2F4F4F"  # Cinza escuro refinado
+textColor="#FFFFFF"  # Branco para contraste
+font="sans serif"
+
