@@ -43,7 +43,6 @@ Você foi contratado(a) para uma consultoria que precisa atender às demandas de
 
 2. **Modelo de Machine Learning**
    - Modelo preditivo utilizando séries temporais para prever os preços futuros.
-   - Métricas de desempenho detalhadas, como MAE, MSE e RMSE.
    - Gráficos interativos para comparação entre previsões e valores reais.
 
 3. **Deploy**
