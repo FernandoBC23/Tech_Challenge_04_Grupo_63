@@ -1,0 +1,13 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.exclude": {
+        "**/.venv": true,
+        "**/__pycache__": true,
+        "**/ML-Tech Challenge-04-Grupo-63": true
+    },
+    "search.exclude": {
+        "**/.venv": true,
+        "**/__pycache__": true,
+        "**/ML-Tech Challenge-04-Grupo-63": true
+    }
+}

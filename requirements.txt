@@ -1,0 +1,14 @@
+numpy<2
+pandas<3
+matplotlib<3.9
+streamlit
+plotly
+openpyxl
+prophet
+Pillow
+scikit-learn
+holidays
+seaborn
+statsforecast
+ipykernel
+jupyter
