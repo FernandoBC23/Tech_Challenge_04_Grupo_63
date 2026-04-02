@@ -20,8 +20,6 @@ def sidebar_image_to_base64(image):
 
 
 def run():
-    st.set_page_config(page_title="Análise do Petróleo", layout="wide")
-
     image = Image.open(LOGO_PATH)
 
     st.sidebar.markdown(
